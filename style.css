@@ -1,0 +1,24 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(255, 102, 0);
+    color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:rgb(255, 174, 0);
+    color:rgb(116, 68, 0);
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+header p {
+    margin: 0;
+    font-size: 20px;
+}
